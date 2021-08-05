@@ -1,0 +1,169 @@
+p {
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+    text-shadow: indigo;
+}
+
+body{
+    background-color: darkslategray;
+    box-sizing: border-box;
+    border-color: chartreuse;
+}
+
+.sobuj {
+    width: 250px;
+    height: 150px;
+    background-color: green;
+    margin: auto;
+    overflow: hidden;
+}
+.lal{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 25px auto;
+}
+.german{
+    width: 250px;
+    height: 50px;
+    background-color: red;
+    margin: auto;
+    margin-top: 50px;
+    border-top: 50px solid black;
+    border-bottom: 50px  solid yellow;
+}
+
+.argen{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    border-top: 50px solid skyblue;
+    border-bottom: 50px  solid skyblue;
+}
+.argen img {
+    width: 50px;
+    padding-left: 100px;
+    
+}
+.canada{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(215, 211, 241);
+    margin: 30px auto;
+    border-left: 50px solid red;
+    border-right: 50px solid red;
+    text-align: center;
+    overflow: hidden;
+}
+.canada img {
+    width: 70px;
+    margin-top: 45px;
+
+}
+.russia{
+    width: 250px;
+    height: 50px;
+    background-color: blue;
+    margin-top: 30px;
+    margin: auto;
+    border-top: 50px solid skyblue;
+    border-bottom: 50px solid red;
+}
+.Nigeria{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    margin: auto;
+    border-left: 50px solid green;
+    border-right: 50px solid green;
+}
+.Rumania{
+    width: 80px;
+    height: 150px;
+    background-color: yellow;
+    margin: 30px auto;
+    border-left: 80px solid blue;
+    border-right: 80px solid maroon;
+}
+.japan{
+    width: 260px;
+    height: 150px;
+    background-color:white;
+    margin:  auto;
+    overflow: hidden;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 25px auto;
+
+}
+
+.India{
+    width: 260px;
+    height: 70px;
+    background-color:  white;
+    margin: 30px auto;
+    border-top: 50px solid orange;
+    border-bottom: 50px solid green;
+    text-align: center;
+}
+.India img{
+    width: 50px; 
+    margin-top: 10px;
+}
+.Indunesia{
+    width: 270px;
+    height: 100px;
+    background-color: red;
+    border-bottom: 70px solid whitesmoke;
+    margin: 30px auto;
+}
+.Ireland{
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    margin: 30px auto;
+    border-left: 70px solid green;
+    border-right: 70px solid orange;
+}
+.Italy{
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    margin: 30px auto;
+    border-left: 70px solid green;
+    border-right: 70px solid red;
+}
+.Spain{
+    width: 280px;
+    height: 70px;
+    background-color: orange;
+    border-top: 50px solid red;
+    border-bottom: 50px solid red;
+    margin: 30px auto;
+}
+.France{
+    width: 280px;
+    height: 70px;
+    background-color:  white;
+    margin: 30px auto;
+    border-top: 50px solid blue;
+    border-bottom: 50px solid red;
+
+}
+.Ausralia{
+    width: 300px;
+    height: 70px;
+    background-color:  white;
+    margin-top: 30px;
+    margin: auto;
+    border-top: 50px solid red;
+    border-bottom: 50px solid red;
+}
